@@ -1,4 +1,4 @@
-# # PRO2 - Programació 2 - FIB
+# # PRO2 - Bases de Dades 2 - FIB
 ## Jordi Soley
 
 Quadrimestre Tardor 2021-2022
