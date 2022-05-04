@@ -1,4 +1,4 @@
-# BD - Bases de Dades 2 - FIB
+# BD - Bases de Dades - FIB
 ## Jordi Soley
 
 Quadrimestre Tardor 2021-2022
