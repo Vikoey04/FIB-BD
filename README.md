@@ -1,5 +1,5 @@
 # BD - Bases de Dades - FIB
-## Jordi Soley
+## Personal
 
 Quadrimestre Tardor 2021-2022
 - Diapositives de Teoria
